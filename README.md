@@ -1,4 +1,4 @@
-This repository is for and only for code presentation for interview at RPX.
+This repository is for and only for code presentation for interview at Agoda.
 
 For confidentiality purpose, the original data files used are not included.
 
